@@ -6,7 +6,9 @@ Repository containing info for the blame program. Blame provides secure password
 
 These instructions will get you a copy of the project up and running on your local machine. See prerequisites and installing for notes on how to setup the software. 
 
-It is worth noting that the passgen script curently only supports nix systems, although this does not mean you can not run passgen itself on Windows. The python file is availible to download and you can run the python file from there. 
+It is worth noting that the Blame script curently only supports nix systems, although this does not mean you can not run Blame itself on Windows. The python file is availible to download and you can run the python file from there. 
+
+```THE PROJECT HAS BEEN RENAMED TO BLAME, SOME OF THE FILES MAY STILL BE NAMED DIFFERENTLY```
 
 ### Prerequisites
 
