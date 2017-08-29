@@ -4,7 +4,7 @@ import random
 
 
 alphabet = "abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ@#&*^!%$~"
-pw_length = 10
+pw_length = 10 # set this value to how long you want your password to be; do not set to anything over 71 characters
 mypw = ""
 
 for i in range(pw_length):
