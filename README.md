@@ -1,6 +1,6 @@
-# The Passgen Program
+# Blame
 
-Repository containing info for the passgen program. Passgen provides secure password phrases for any service you use. 
+Repository containing info for the blame program. Blame provides secure password phrases for any service you use. 
 
 ## Getting Started
 
