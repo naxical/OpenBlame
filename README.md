@@ -24,7 +24,7 @@ wget https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tgz
 
 To Download the program go to the top of the page and click on the goo.gl link, this will bring you to a mega page with the zip file. Download it. 
 
-After you have downloaded the zip extract it. You should now have a folder with the passgen files in it. Inside the folder are four files README.txt, passgen.py, passgenscript, and passwords.txt. Firstmove the passgen folder to your home folder. After open the passgen folder and then open the passgenscript file. Go to the 3rd line of the script file and remove the # symbol. Then replace the text 'user' with your username, eg. cd /home/nax/passgen/. After you have edited the script file copy it by right clicking it and paste into your home folder. Next open a terminal window and allow the file to be run as excutable.
+After you have downloaded the zip extract it. You should now have a folder with the passgen files in it. Inside the folder are four files README.txt, passgen.py, passgenscript, and passwords.txt. First move the passgen folder to your home folder. After open the passgen folder and then open the passgenscript file. Go to the 3rd line of the script file and remove the # symbol. Then replace the text 'user' with your username, eg. cd /home/nax/passgen/. After you have edited the script file copy it by right clicking it and paste into your home folder. Next open a terminal window and allow the file to be run as excutable.
 
 Do this by using chmod
 ```
